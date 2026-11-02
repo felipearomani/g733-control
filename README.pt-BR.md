@@ -207,3 +207,7 @@ do [Solaar](https://github.com/pwr-Solaar/Solaar) e do
 [Lip Gloss](https://github.com/charmbracelet/lipgloss).
 
 Sem afiliação nem endosso da Logitech.
+
+## Licença
+
+[MIT](LICENSE) © Felipe Romani

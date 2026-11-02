@@ -283,3 +283,7 @@ Protocol knowledge from [HeadsetControl](https://github.com/Sapd/HeadsetControl)
 [Lip Gloss](https://github.com/charmbracelet/lipgloss).
 
 Not affiliated with or endorsed by Logitech.
+
+## License
+
+[MIT](LICENSE) © Felipe Romani
